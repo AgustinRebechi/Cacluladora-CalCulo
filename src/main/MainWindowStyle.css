@@ -1,0 +1,21 @@
+.root {
+    -fx-background-color: eeeeee ;
+    -fx-background-radius: 28;
+}
+
+.mainPane {
+    -fx-background-color: fafafa;
+    -fx-background-radius: 15 15 28 28;
+}
+
+.theme {
+    -fx-background-color: ffffff;
+    -fx-background-radius: 28;
+    -fx-effect: dropshadow(gaussian, gray, 10, 0.01, 0, 2) ;
+}
+
+.buttomAC {
+    -fx-background-color: ffffff;
+    -fx-background-radius: 5;
+    -fx-effect: dropshadow(gaussian, gray, 10, 0.01, 0, 2) ;
+}
